@@ -1,6 +1,6 @@
 # LIDAR
 
-A short atmospheric horror experience built in Unity, where sight is replaced by sound and scanning.
+A short atmospheric horror experience built in Unity, where sight is replaced by sound and scanning...
 
 ## Overview
 
